@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gautham+%F0%9F%91%8B;I+build+AI+systems+that+ship;AI%2FML+%2B+Full-Stack+Engineer;Currently%3A+Intern+%40+AGTKW+%F0%9F%87%B0%F0%9F%87%BC" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gautham+%F0%9F%91%8B;I+build+AI+systems+that+ship;AI%2FML+%2B+Full-Stack+Engineer;Open+to+Software+Internships" alt="Typing SVG"/>
 
 <br>
 
@@ -17,13 +17,13 @@
 
 ### 🧠 About Me
 
-I'm a second-year **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Chennai** — **9.75 CGPA**. I don't stop at prototypes: I ship production ML pipelines, full-stack platforms, and systems that survive contact with real deployment.
+I'm a **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Chennai**, graduating 2028. I don't stop at prototypes: I ship production ML pipelines, full-stack platforms, and systems that survive contact with real deployment.
 
 ```yaml
 role:      AI/ML + Full-Stack Engineer
-currently: Remote AI/Full-Stack Intern @ AGTKW (Kuwait) — Next.js · FastAPI · ML pipelines
-exploring: Google Application Engineering Internship (Summer/Winter 2027) · Razorpay AI Buildathon 2026
-proof:     Top 48 / 1300+ teams @ Barclays Hack-o-Hire 2026 · Paper submitted to CVIP 2026
+currently: Open to software internships (AI/ML + full-stack)
+past:      AI/Full-Stack Intern @ AGTKW (Kuwait) — construction risk intelligence platform
+proof:     Top 48 / 1300+ teams @ Barclays Hack-o-Hire 2026
 believe:   ship first, polish always, never stop iterating
 ```
 
@@ -36,17 +36,17 @@ believe:   ship first, polish always, never stop iterating
 <td width="50%" valign="top">
 
 #### 🏗️ AGTKW Construction Intelligence Platform
-Full-stack construction risk intelligence platform — Next.js + FastAPI backend serving XGBoost / Random Forest models trained on NYC SCA data, with an executive-grade PDF reporting layer and a custom "Blueprint Dark" UI.
+Full-stack construction risk intelligence platform built during a remote internship — Next.js + FastAPI backend serving XGBoost models (with SHAP explainability) trained on NYC school construction data, predicting delay and cost-overrun risk.
 
-`Next.js` `FastAPI` `XGBoost` `Random Forest`
+`Next.js` `FastAPI` `XGBoost` `SHAP`
 
 </td>
 <td width="50%" valign="top">
 
 #### 🛡️ tuxSOC — SOC Detection Engine
-Layer-2 threat detection module built for **Barclays Hack-o-Hire 2026** (Top 48 of 1,300+ teams). Orchestration-agent pipeline across anomaly detection (UEBA), threat intel (IOC/MITRE mapping), and event correlation on an Elasticsearch-native backend.
+Multi-layer AI SOC pipeline built for **Barclays Hack-o-Hire 2026** (Top 48 of 1,300+ teams). FastAPI ingestion, PyOD Isolation Forest anomaly scoring, MITRE ATT&CK correlation against a 310+ entry IOC database, and LangGraph-orchestrated agent pipeline.
 
-`Elasticsearch` `Python` `Threat Detection`
+`FastAPI` `PyOD` `LangGraph` `MITRE ATT&CK`
 
 </td>
 </tr>
@@ -54,35 +54,17 @@ Layer-2 threat detection module built for **Barclays Hack-o-Hire 2026** (Top 48 
 <td width="50%" valign="top">
 
 #### 📄 Resume Refine Pro
-AI-powered resume platform on Next.js, Supabase, and Mistral AI, with a phased automation roadmap toward n8n-driven job alerts and a Playwright form-filling agent.
+AI-powered resume platform built on Next.js, Supabase, and the Gemini API, with ATS-style scoring.
 
-`Next.js` `Supabase` `Mistral AI` `n8n`
+`Next.js` `Supabase` `Gemini API` `ATS Scoring`
 
 </td>
 <td width="50%" valign="top">
 
 #### 💳 Recovr
-A compliance-bounded AI agent that automatically retries failed UPI Autopay mandates within NPCI rules — live audit trail, failure-cause breakdown, full agent decision tracing. Built for **Razorpay AI Buildathon 2026**.
+A compliance-bounded AI agent (built for **Razorpay AI Buildathon 2026**) that classifies failed UPI Autopay/subscription payment causes and autonomously retries them under NPCI-compliant rules — with a live audit trail and full agent decision tracing.
 
-`Next.js` `React` `AI Agents` `Fintech`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### ✈️ FOD Detection — CVIP 2026
-Computer vision system for foreign object debris detection, outperforming YOLOv8 by 41 mAP points. Paper submitted to CVIP 2026.
-
-`Computer Vision` `YOLO` `Research`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🦢 Vedic Maths Learning App
-Interactive iOS app teaching all 29 Vedic maths sutras through illustrated, story-driven lessons — chasing Apple Design Award-level UI polish.
-
-`SwiftUI` `iOS` `EdTech`
+`Next.js` `FastAPI` `PostgreSQL` `Razorpay SDK` `Mistral AI`
 
 </td>
 </tr>
